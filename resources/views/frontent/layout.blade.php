@@ -21,8 +21,8 @@
 	<link href="{{asset('frontent/assets/css/common.css')}}" rel="stylesheet">
 	<link href="{{asset('frontent/assets/css/main.css')}}" rel="stylesheet">
     <link rel="stylesheet" type="text/css" href="{{asset('frontent/sample.css')}}" media="all" />
-    <link rel="stylesheet" type="text/css" href="https://raw.githubusercontent.com/daneden/animate.css/master/animate.css">
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css">
+    <!-- <link rel="stylesheet" type="text/css" href="https://raw.githubusercontent.com/daneden/animate.css/master/animate.css">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css"> -->
 
 <!-- jQuery library -->
 
