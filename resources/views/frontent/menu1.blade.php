@@ -1,3 +1,4 @@
+
 <header class="site-navbar pd-0">
 		<a class="site-logo" href="#"><img style="height: 50px;" alt="logo-1" class="site-logo__image-1" src="{{asset('frontent/images/logo-3.png')}}"> <img alt="logo-2" class="site-logo__image-2" img style="height: 45px;" src="{{asset('frontent/images/logo-2.png')}}"></a>
 		<nav class="site-nav hidden-xxs hidden-xs hidden-sm">
